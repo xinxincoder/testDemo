@@ -8,6 +8,9 @@
 
 #import "ViewController.h"
 
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+
 @interface ViewController ()
 
 @end
